@@ -1,5 +1,7 @@
 body{
-    background-color:cornsilk
+    background-color:cornsilk;
+    font-family: Arial, Helvetica, sans-serif
+
 }
 .box1{
 
@@ -10,4 +12,8 @@ body{
     float: left;
     margin-right: 30px;
     border-radius: 50%;
+}
+.aboutMe{
+    display: block;
+    box-sizing: border-box;
 }
