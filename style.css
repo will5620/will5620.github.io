@@ -4,3 +4,9 @@ body{
 .box1{
 
 }
+.headshot{
+    vertical-align: middle;
+    height: 100px;
+    float: left;
+    margin-right: 30px;
+}
