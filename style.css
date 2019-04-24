@@ -5,7 +5,7 @@ body {
 .heroimage {
     background-image: url(https://libraries.ou.edu/sites/default/files/Copy%20of%20Bizzell-Library-South-Landscape%20copy_1_0.jpg);
     background-color: #cccccc;
-    opacity: .5;
+    opacity: 1.0;
 }
 .box1{
 
