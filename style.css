@@ -9,7 +9,7 @@ body {
 .headshot{
     vertical-align: middle;
     height: auto;
-    float: left;
+    float: right;
     margin-right: 30px;
     border-radius: 50%;
 }
